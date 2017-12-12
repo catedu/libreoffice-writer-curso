@@ -1,1 +1,1 @@
-# libreoffice-writer-curso
+Curso de LibreOffice Writer
