@@ -2,15 +2,14 @@
 
 * [Introducción](README.md)
 
-____
-### 1. Código abierto, estándares abiertos y OpenDocument
+## 1. Código abierto, estándares abiertos y OpenDocument
 * [Código abierto, estándares abiertos y OpenDocument](index0.md)
 * [La comunidad LibreOffice](la_comunidad_libreoffice.md)
 * [¿Qué son los "estándares abiertos"?](qu_son_los_estndares_abiertos.md)
 * [Formatos que abre/guarda LibreOffice](formatos_que_abreguarda_libreoffice.md)
 * [Créditos](crditos.md)
-____
-### 2. ¿Qué es LibreOffice?
+
+## 2. ¿Qué es LibreOffice?
 * [¿Qué es LibreOffice?](index1.md)
 * [1. Comenzando a usar LibreOffice](1_comenzando_a_usar_libreoffice.md)
 * [2. Interfaz](2_interfaz.md)
@@ -22,8 +21,8 @@ ____
 * [8. Firmado digital de documentos](8_firmado_digital_de_documentos.md)
 * [9. Añadiendo extensiones](9_aadiendo_extensiones.md)
 * [Créditos](crditos1.md)
-____
-### 3. Estilos, plantillas y gráficos
+
+## 3. Estilos, plantillas y gráficos
 * [Estilos, plantillas y gráficos](index2.md)
 * [¿Qué son los estilos?](qu_son_los_estilos.md)
     * [Aplicar estilos](aplicar_estilos.md)
@@ -44,8 +43,8 @@ ____
     * [¿Qué es Fontwork?](qu_es_fontwork.md)
     * [Crear un objeto de Fontwork](crear_un_objeto_de_fontwork.md)
 * [Créditos](crditos2.md)
-____
-### 4. Primeros pasos con Writer
+
+## 4. Primeros pasos con Writer
 * [Primeros pasos con Writer](index3.md)
 * [La interfaz de Writer](la_interfaz_de_writer.md)
 * [Trabajar con texto](trabajar_con_texto.md)
@@ -78,4 +77,5 @@ ____
 * [Usar marcas de texto](usar_marcas_de_texto.md)
 * [Usar documentos maestros](usar_documentos_maestros.md)
 * [Crear formularios](crear_formularios.md)
-* [Créditos](crditos3.md){% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/SUMMARY.md" %}
+* [Créditos](crditos3.md)
+
