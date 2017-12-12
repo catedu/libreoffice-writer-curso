@@ -78,4 +78,4 @@ ____
 * [Usar marcas de texto](usar_marcas_de_texto.md)
 * [Usar documentos maestros](usar_documentos_maestros.md)
 * [Crear formularios](crear_formularios.md)
-* [Créditos](crditos3.md)
+* [Créditos](crditos3.md){% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/SUMMARY.md" %}

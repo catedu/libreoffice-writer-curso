@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/ejemplo_de_uso_de_los_estilos.md" %}

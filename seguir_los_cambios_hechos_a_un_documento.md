@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/seguir_los_cambios_hechos_a_un_documento.md" %}

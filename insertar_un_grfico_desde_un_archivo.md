@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/libreOffice-la-suite-ofimatica-libre.git/insertar_un_grfico_desde_un_archivo.md" %}
